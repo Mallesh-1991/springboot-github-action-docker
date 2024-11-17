@@ -13,6 +13,7 @@ public class MessageController {
 	@GetMapping("/message")
 	public String gettestDept() {	
 		
-		return "This is demo for Spring Boot CI CD using GitHub-Actions .......";
+		
+		return "This is demo for Spring Boot CI CD using GitHub-Actions..";
 	}
 }
