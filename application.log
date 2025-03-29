@@ -1,0 +1,13 @@
+2025-03-29T19:13:59.140+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [main] ngBootGitHubActionDockerImageApplication : Starting SpringBootGitHubActionDockerImageApplication using Java 17.0.1 with PID 12728 (D:\Nani\STS-workspace\SpringBootGitHubActionDockerImage\target\classes started by Nani in D:\Nani\STS-workspace\SpringBootGitHubActionDockerImage)
+2025-03-29T19:13:59.144+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [main] ngBootGitHubActionDockerImageApplication : No active profile set, falling back to 1 default profile: "default"
+2025-03-29T19:13:59.781+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8088 (http)
+2025-03-29T19:13:59.794+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-29T19:13:59.795+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-03-29T19:13:59.850+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-29T19:13:59.851+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 646 ms
+2025-03-29T19:14:00.115+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8088 (http) with context path '/'
+2025-03-29T19:14:00.123+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [main] ngBootGitHubActionDockerImageApplication : Started SpringBootGitHubActionDockerImageApplication in 1.27 seconds (process running for 1.85)
+2025-03-29T19:14:07.837+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [http-nio-8088-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-29T19:14:07.838+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [http-nio-8088-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-29T19:14:07.840+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [http-nio-8088-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-29T19:14:07.868+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [http-nio-8088-exec-2] c.s.g.controller.MessageController       : In Controller .......
