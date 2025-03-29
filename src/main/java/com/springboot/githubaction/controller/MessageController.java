@@ -16,7 +16,7 @@ public class MessageController {
 	@GetMapping("/message")
 	public String gettestDept() {	
 		
-		log.info("In Controller ......... ..");
+		log.info("In Controller ......... ....");
 		return "This is demo for Spring Boot CI CD using GitHub-Actions..";
 	}
 }

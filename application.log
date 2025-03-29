@@ -11,3 +11,4 @@
 2025-03-29T19:14:07.838+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [http-nio-8088-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2025-03-29T19:14:07.840+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [http-nio-8088-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
 2025-03-29T19:14:07.868+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [http-nio-8088-exec-2] c.s.g.controller.MessageController       : In Controller .......
+2025-03-29T19:30:46.531+05:30  INFO 12728 --- [SpringBootGitHubActionDockerImage] [RMI TCP Connection(21)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
